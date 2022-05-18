@@ -148,8 +148,8 @@ li {
 .para h5::after {
   content: "";
   position: absolute;
-  top: 31.6%;
-  right: 20rem;
+  top: 33.6%;
+  right: 18rem;
   min-width: 5rem;
   height: 0.5rem;
   background-color: var(--overlay);
